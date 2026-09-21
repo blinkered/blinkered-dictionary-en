@@ -1,0 +1,110 @@
+{
+  "language": "en",
+  "built": "2026-09-21",
+  "candidates": 174456,
+  "shipped": 70673,
+  "conforms": true,
+  "families": 14,
+  "checkable": 13,
+  "knee": 5,
+  "steps": [
+    {
+      "families": 1,
+      "added": "wikimedia",
+      "kept": 0,
+      "share": 0,
+      "gained": 0
+    },
+    {
+      "families": 2,
+      "added": "gutenberg",
+      "kept": 0,
+      "share": 0,
+      "gained": 0
+    },
+    {
+      "families": 3,
+      "added": "leipzig",
+      "kept": 60383,
+      "share": 0.346122,
+      "gained": 60383
+    },
+    {
+      "families": 4,
+      "added": "tatoeba",
+      "kept": 67675,
+      "share": 0.38792,
+      "gained": 7292
+    },
+    {
+      "families": 5,
+      "added": "poets.org",
+      "kept": 68969,
+      "share": 0.395338,
+      "gained": 1294
+    },
+    {
+      "families": 6,
+      "added": "lrb.co.uk",
+      "kept": 69942,
+      "share": 0.400915,
+      "gained": 973
+    },
+    {
+      "families": 7,
+      "added": "theguardian.com",
+      "kept": 70126,
+      "share": 0.40197,
+      "gained": 184
+    },
+    {
+      "families": 8,
+      "added": "ebible",
+      "kept": 70309,
+      "share": 0.403019,
+      "gained": 183
+    },
+    {
+      "families": 9,
+      "added": "nybooks.com",
+      "kept": 70421,
+      "share": 0.403661,
+      "gained": 112
+    },
+    {
+      "families": 10,
+      "added": "publicdomainreview.org",
+      "kept": 70525,
+      "share": 0.404257,
+      "gained": 104
+    },
+    {
+      "families": 11,
+      "added": "irishtimes.com",
+      "kept": 70604,
+      "share": 0.404709,
+      "gained": 79
+    },
+    {
+      "families": 12,
+      "added": "pbs.org",
+      "kept": 70648,
+      "share": 0.404962,
+      "gained": 44
+    },
+    {
+      "families": 13,
+      "added": "bbc.co.uk",
+      "kept": 70669,
+      "share": 0.405082,
+      "gained": 21
+    },
+    {
+      "families": 14,
+      "added": "theglobeandmail.com",
+      "kept": 70673,
+      "share": 0.405105,
+      "gained": 4
+    }
+  ]
+}
