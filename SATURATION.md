@@ -8,7 +8,7 @@ the curve a careful builder would get, not the order this repository happens to 
 The first two families keep nothing, which is not padding — it is the shape of a rule that needs
 three independent sources.
 
-Candidates: 174,456. Shipped: 107,670.
+Candidates: 174,456. Shipped: 112,115.
 
 Of 15 families, **14 can be checked by fetching** —
 a stable identifier or a page we fetched ourselves. The other 1 are crawls
@@ -18,19 +18,19 @@ it is their published corpus, not the web.
 | families | added | kept | coverage | gained |
 | --- | --- | --- | --- | --- |
 | 1 | `wikimedia` | 0 | 0.0% | — |
-| 2 | `gutenberg` | 0 | 0.0% | — |
-| 3 | `internetarchive` | 99,992 | 57.3% | +99,992 |
-| 4 | `leipzig` | 105,391 | 60.4% | +5,399 |
-| 5 | `tatoeba` | 107,062 | 61.4% | +1,671 |
-| 6 | `lrb.co.uk` | 107,330 | 61.5% | +268 |
-| 7 | `poets.org` | 107,503 | 61.6% | +173 |
-| 8 | `theguardian.com` | 107,582 | 61.7% | +79 |
-| 9 | `irishtimes.com` | 107,609 | 61.7% | +27 |
-| 10 | `nybooks.com` | 107,629 | 61.7% | +20 |
-| 11 | `pbs.org` | 107,644 | 61.7% | +15 |
-| 12 | `publicdomainreview.org` | 107,656 | 61.7% | +12 |
-| 13 | `bbc.co.uk` | 107,665 | 61.7% | +9 |
-| 14 | `ebible` | 107,668 | 61.7% | +3 |
-| 15 | `theglobeandmail.com` | 107,670 | 61.7% | +2 |
+| 2 | `internetarchive` | 0 | 0.0% | — |
+| 3 | `gutenberg` | 105,164 | 60.3% | +105,164 |
+| 4 | `leipzig` | 110,316 | 63.2% | +5,152 |
+| 5 | `tatoeba` | 111,670 | 64.0% | +1,354 |
+| 6 | `lrb.co.uk` | 111,875 | 64.1% | +205 |
+| 7 | `poets.org` | 111,995 | 64.2% | +120 |
+| 8 | `theguardian.com` | 112,051 | 64.2% | +56 |
+| 9 | `irishtimes.com` | 112,073 | 64.2% | +22 |
+| 10 | `nybooks.com` | 112,086 | 64.2% | +13 |
+| 11 | `pbs.org` | 112,096 | 64.3% | +10 |
+| 12 | `publicdomainreview.org` | 112,105 | 64.3% | +9 |
+| 13 | `bbc.co.uk` | 112,112 | 64.3% | +7 |
+| 14 | `theglobeandmail.com` | 112,114 | 64.3% | +2 |
+| 15 | `ebible` | 112,115 | 64.3% | +1 |
 
-**Diminishing returns from family 5** (`tatoeba`, +1,671), where a family first added less than a twentieth of what the best one did.
+**Diminishing returns from family 4** (`leipzig`, +5,152), where a family first added less than a twentieth of what the best one did.
