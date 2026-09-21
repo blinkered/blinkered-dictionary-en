@@ -2,10 +2,10 @@
   "language": "en",
   "built": "2026-09-21",
   "candidates": 174456,
-  "shipped": 70673,
+  "shipped": 107142,
   "conforms": true,
-  "families": 14,
-  "checkable": 13,
+  "families": 15,
+  "checkable": 14,
   "knee": 5,
   "steps": [
     {
@@ -24,87 +24,94 @@
     },
     {
       "families": 3,
-      "added": "leipzig",
-      "kept": 60383,
-      "share": 0.346122,
-      "gained": 60383
+      "added": "internetarchive",
+      "kept": 99325,
+      "share": 0.569341,
+      "gained": 99325
     },
     {
       "families": 4,
-      "added": "tatoeba",
-      "kept": 67675,
-      "share": 0.38792,
-      "gained": 7292
+      "added": "leipzig",
+      "kept": 104797,
+      "share": 0.600707,
+      "gained": 5472
     },
     {
       "families": 5,
-      "added": "poets.org",
-      "kept": 68969,
-      "share": 0.395338,
-      "gained": 1294
+      "added": "tatoeba",
+      "kept": 106518,
+      "share": 0.610572,
+      "gained": 1721
     },
     {
       "families": 6,
       "added": "lrb.co.uk",
-      "kept": 69942,
-      "share": 0.400915,
-      "gained": 973
+      "kept": 106790,
+      "share": 0.612131,
+      "gained": 272
     },
     {
       "families": 7,
-      "added": "theguardian.com",
-      "kept": 70126,
-      "share": 0.40197,
-      "gained": 184
+      "added": "poets.org",
+      "kept": 106969,
+      "share": 0.613157,
+      "gained": 179
     },
     {
       "families": 8,
-      "added": "ebible",
-      "kept": 70309,
-      "share": 0.403019,
-      "gained": 183
+      "added": "theguardian.com",
+      "kept": 107051,
+      "share": 0.613628,
+      "gained": 82
     },
     {
       "families": 9,
-      "added": "nybooks.com",
-      "kept": 70421,
-      "share": 0.403661,
-      "gained": 112
+      "added": "irishtimes.com",
+      "kept": 107078,
+      "share": 0.613782,
+      "gained": 27
     },
     {
       "families": 10,
-      "added": "publicdomainreview.org",
-      "kept": 70525,
-      "share": 0.404257,
-      "gained": 104
+      "added": "nybooks.com",
+      "kept": 107099,
+      "share": 0.613903,
+      "gained": 21
     },
     {
       "families": 11,
-      "added": "irishtimes.com",
-      "kept": 70604,
-      "share": 0.404709,
-      "gained": 79
+      "added": "pbs.org",
+      "kept": 107116,
+      "share": 0.614,
+      "gained": 17
     },
     {
       "families": 12,
-      "added": "pbs.org",
-      "kept": 70648,
-      "share": 0.404962,
-      "gained": 44
+      "added": "publicdomainreview.org",
+      "kept": 107128,
+      "share": 0.614069,
+      "gained": 12
     },
     {
       "families": 13,
       "added": "bbc.co.uk",
-      "kept": 70669,
-      "share": 0.405082,
-      "gained": 21
+      "kept": 107137,
+      "share": 0.61412,
+      "gained": 9
     },
     {
       "families": 14,
+      "added": "ebible",
+      "kept": 107140,
+      "share": 0.614138,
+      "gained": 3
+    },
+    {
+      "families": 15,
       "added": "theglobeandmail.com",
-      "kept": 70673,
-      "share": 0.405105,
-      "gained": 4
+      "kept": 107142,
+      "share": 0.614149,
+      "gained": 2
     }
   ]
 }

@@ -8,9 +8,9 @@ the curve a careful builder would get, not the order this repository happens to 
 The first two families keep nothing, which is not padding — it is the shape of a rule that needs
 three independent sources.
 
-Candidates: 174,456. Shipped: 70,673.
+Candidates: 174,456. Shipped: 107,142.
 
-Of 14 families, **13 can be checked by fetching** —
+Of 15 families, **14 can be checked by fetching** —
 a stable identifier or a page we fetched ourselves. The other 1 are crawls
 somebody else made, whose locators record where they found the sentence; the document that holds
 it is their published corpus, not the web.
@@ -19,17 +19,18 @@ it is their published corpus, not the web.
 | --- | --- | --- | --- | --- |
 | 1 | `wikimedia` | 0 | 0.0% | — |
 | 2 | `gutenberg` | 0 | 0.0% | — |
-| 3 | `leipzig` | 60,383 | 34.6% | +60,383 |
-| 4 | `tatoeba` | 67,675 | 38.8% | +7,292 |
-| 5 | `poets.org` | 68,969 | 39.5% | +1,294 |
-| 6 | `lrb.co.uk` | 69,942 | 40.1% | +973 |
-| 7 | `theguardian.com` | 70,126 | 40.2% | +184 |
-| 8 | `ebible` | 70,309 | 40.3% | +183 |
-| 9 | `nybooks.com` | 70,421 | 40.4% | +112 |
-| 10 | `publicdomainreview.org` | 70,525 | 40.4% | +104 |
-| 11 | `irishtimes.com` | 70,604 | 40.5% | +79 |
-| 12 | `pbs.org` | 70,648 | 40.5% | +44 |
-| 13 | `bbc.co.uk` | 70,669 | 40.5% | +21 |
-| 14 | `theglobeandmail.com` | 70,673 | 40.5% | +4 |
+| 3 | `internetarchive` | 99,325 | 56.9% | +99,325 |
+| 4 | `leipzig` | 104,797 | 60.1% | +5,472 |
+| 5 | `tatoeba` | 106,518 | 61.1% | +1,721 |
+| 6 | `lrb.co.uk` | 106,790 | 61.2% | +272 |
+| 7 | `poets.org` | 106,969 | 61.3% | +179 |
+| 8 | `theguardian.com` | 107,051 | 61.4% | +82 |
+| 9 | `irishtimes.com` | 107,078 | 61.4% | +27 |
+| 10 | `nybooks.com` | 107,099 | 61.4% | +21 |
+| 11 | `pbs.org` | 107,116 | 61.4% | +17 |
+| 12 | `publicdomainreview.org` | 107,128 | 61.4% | +12 |
+| 13 | `bbc.co.uk` | 107,137 | 61.4% | +9 |
+| 14 | `ebible` | 107,140 | 61.4% | +3 |
+| 15 | `theglobeandmail.com` | 107,142 | 61.4% | +2 |
 
-**Diminishing returns from family 5** (`poets.org`, +1,294), where a family first added less than a twentieth of what the best one did.
+**Diminishing returns from family 5** (`tatoeba`, +1,721), where a family first added less than a twentieth of what the best one did.

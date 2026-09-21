@@ -105,12 +105,31 @@ export const SOURCES = [
     legible: 0.35,
     what: 'Internet Archive english books — literature, and the register a newspaper never reaches',
     needs: `${CACHE}archive-en`,
-    from: 'https://archive.org/details/booksbylanguage_english',
+    // Not `booksbylanguage_english`, which holds 599 items. The American Libraries scans hold
+    // 2.7 million with text, and that is what was actually fetched.
+    from: 'https://archive.org/search?query=collection%3Aamericana+AND+language%3A%22eng%22',
     documents: () => {
       const dir = `${CACHE}archive-en`
+      // A locator names the text, not the item: the catalogue page holds no word of the book.
+      // `files.tsv` maps an item to the file we read; a book with no recorded name is skipped
+      // rather than cited at a page that cannot support it.
+      const named = new Map(
+        readFileSync(`${dir}/files.tsv`, 'utf8')
+          .split('\n')
+          .filter(Boolean)
+          .map((line) => line.split('\t')),
+      )
       const books = readdirSync(dir)
         .filter((file) => file.endsWith('.txt'))
-        .map((file) => ({ locator: file.replace('.txt', ''), path: `${dir}/${file}` }))
+        .map((file) => file.replace('.txt', ''))
+        .filter((id) => named.has(id))
+        // The filename is percent-encoded: two thirds of them contain spaces, and a locator with
+        // a space in it would split into two locators, because the evidence format spends spaces
+        // as separators. Encoding is also what the URL needs.
+        .map((id) => ({
+          locator: `${id}/${encodeURIComponent(named.get(id))}`,
+          path: `${dir}/${id}.txt`,
+        }))
       return fileDocuments(books, async (path) => readFileSync(path, 'utf8'))
     },
   },

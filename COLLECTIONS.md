@@ -15,6 +15,7 @@ collection rather than reuse its record only has to put the file back where the 
 | `wiki:en` | 3,726,958,725 | English Wikipedia — modern encyclopedic prose | [enwiki.xml.bz2](https://dumps.wikimedia.org/enwiki/latest/enwiki-latest-pages-articles.xml.bz2) |
 | `gut` | 483,861,006 | Project Gutenberg — published books, a register nothing else here reaches | [gutenberg-en](https://www.gutenberg.org/cache/epub/feeds/pg_catalog.csv) |
 | `wikisource:en` | 282,896,928 | Wikisource — same Wikimedia family, so it corroborates rather than counts | [enwikisource.xml.bz2](https://dumps.wikimedia.org/enwikisource/latest/enwikisource-latest-pages-articles.xml.bz2) |
+| `ia` | 128,315,215 | Internet Archive english books — literature, and the register a newspaper never reaches | [archive-en](https://archive.org/search?query=collection%3Aamericana+AND+language%3A%22eng%22) |
 | `tat` | 12,347,174 | Tatoeba — contemporary, conversational | [eng_sentences.tsv](https://downloads.tatoeba.org/exports/per_language/eng/eng_sentences.tsv.bz2) |
 | `lz:eng_news_2023_1M` | 10,573,955 | Leipzig eng_news_2023_1M — modern news, cited by the page each sentence came from | eng_news_2023_1M |
 | `lz:eng_news_2024_1M` | 10,348,509 | Leipzig eng_news_2024_1M — modern news, cited by the page each sentence came from | eng_news_2024_1M |
