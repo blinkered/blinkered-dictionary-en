@@ -2,7 +2,7 @@
   "language": "en",
   "built": "2026-09-21",
   "candidates": 174456,
-  "shipped": 107142,
+  "shipped": 107670,
   "conforms": true,
   "families": 15,
   "checkable": 14,
@@ -25,92 +25,92 @@
     {
       "families": 3,
       "added": "internetarchive",
-      "kept": 99325,
-      "share": 0.569341,
-      "gained": 99325
+      "kept": 99992,
+      "share": 0.573165,
+      "gained": 99992
     },
     {
       "families": 4,
       "added": "leipzig",
-      "kept": 104797,
-      "share": 0.600707,
-      "gained": 5472
+      "kept": 105391,
+      "share": 0.604112,
+      "gained": 5399
     },
     {
       "families": 5,
       "added": "tatoeba",
-      "kept": 106518,
-      "share": 0.610572,
-      "gained": 1721
+      "kept": 107062,
+      "share": 0.613691,
+      "gained": 1671
     },
     {
       "families": 6,
       "added": "lrb.co.uk",
-      "kept": 106790,
-      "share": 0.612131,
-      "gained": 272
+      "kept": 107330,
+      "share": 0.615227,
+      "gained": 268
     },
     {
       "families": 7,
       "added": "poets.org",
-      "kept": 106969,
-      "share": 0.613157,
-      "gained": 179
+      "kept": 107503,
+      "share": 0.616218,
+      "gained": 173
     },
     {
       "families": 8,
       "added": "theguardian.com",
-      "kept": 107051,
-      "share": 0.613628,
-      "gained": 82
+      "kept": 107582,
+      "share": 0.616671,
+      "gained": 79
     },
     {
       "families": 9,
       "added": "irishtimes.com",
-      "kept": 107078,
-      "share": 0.613782,
+      "kept": 107609,
+      "share": 0.616826,
       "gained": 27
     },
     {
       "families": 10,
       "added": "nybooks.com",
-      "kept": 107099,
-      "share": 0.613903,
-      "gained": 21
+      "kept": 107629,
+      "share": 0.616941,
+      "gained": 20
     },
     {
       "families": 11,
       "added": "pbs.org",
-      "kept": 107116,
-      "share": 0.614,
-      "gained": 17
+      "kept": 107644,
+      "share": 0.617027,
+      "gained": 15
     },
     {
       "families": 12,
       "added": "publicdomainreview.org",
-      "kept": 107128,
-      "share": 0.614069,
+      "kept": 107656,
+      "share": 0.617095,
       "gained": 12
     },
     {
       "families": 13,
       "added": "bbc.co.uk",
-      "kept": 107137,
-      "share": 0.61412,
+      "kept": 107665,
+      "share": 0.617147,
       "gained": 9
     },
     {
       "families": 14,
       "added": "ebible",
-      "kept": 107140,
-      "share": 0.614138,
+      "kept": 107668,
+      "share": 0.617164,
       "gained": 3
     },
     {
       "families": 15,
       "added": "theglobeandmail.com",
-      "kept": 107142,
-      "share": 0.614149,
+      "kept": 107670,
+      "share": 0.617176,
       "gained": 2
     }
   ]

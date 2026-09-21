@@ -8,7 +8,7 @@ the curve a careful builder would get, not the order this repository happens to 
 The first two families keep nothing, which is not padding — it is the shape of a rule that needs
 three independent sources.
 
-Candidates: 174,456. Shipped: 107,142.
+Candidates: 174,456. Shipped: 107,670.
 
 Of 15 families, **14 can be checked by fetching** —
 a stable identifier or a page we fetched ourselves. The other 1 are crawls
@@ -19,18 +19,18 @@ it is their published corpus, not the web.
 | --- | --- | --- | --- | --- |
 | 1 | `wikimedia` | 0 | 0.0% | — |
 | 2 | `gutenberg` | 0 | 0.0% | — |
-| 3 | `internetarchive` | 99,325 | 56.9% | +99,325 |
-| 4 | `leipzig` | 104,797 | 60.1% | +5,472 |
-| 5 | `tatoeba` | 106,518 | 61.1% | +1,721 |
-| 6 | `lrb.co.uk` | 106,790 | 61.2% | +272 |
-| 7 | `poets.org` | 106,969 | 61.3% | +179 |
-| 8 | `theguardian.com` | 107,051 | 61.4% | +82 |
-| 9 | `irishtimes.com` | 107,078 | 61.4% | +27 |
-| 10 | `nybooks.com` | 107,099 | 61.4% | +21 |
-| 11 | `pbs.org` | 107,116 | 61.4% | +17 |
-| 12 | `publicdomainreview.org` | 107,128 | 61.4% | +12 |
-| 13 | `bbc.co.uk` | 107,137 | 61.4% | +9 |
-| 14 | `ebible` | 107,140 | 61.4% | +3 |
-| 15 | `theglobeandmail.com` | 107,142 | 61.4% | +2 |
+| 3 | `internetarchive` | 99,992 | 57.3% | +99,992 |
+| 4 | `leipzig` | 105,391 | 60.4% | +5,399 |
+| 5 | `tatoeba` | 107,062 | 61.4% | +1,671 |
+| 6 | `lrb.co.uk` | 107,330 | 61.5% | +268 |
+| 7 | `poets.org` | 107,503 | 61.6% | +173 |
+| 8 | `theguardian.com` | 107,582 | 61.7% | +79 |
+| 9 | `irishtimes.com` | 107,609 | 61.7% | +27 |
+| 10 | `nybooks.com` | 107,629 | 61.7% | +20 |
+| 11 | `pbs.org` | 107,644 | 61.7% | +15 |
+| 12 | `publicdomainreview.org` | 107,656 | 61.7% | +12 |
+| 13 | `bbc.co.uk` | 107,665 | 61.7% | +9 |
+| 14 | `ebible` | 107,668 | 61.7% | +3 |
+| 15 | `theglobeandmail.com` | 107,670 | 61.7% | +2 |
 
-**Diminishing returns from family 5** (`tatoeba`, +1,721), where a family first added less than a twentieth of what the best one did.
+**Diminishing returns from family 5** (`tatoeba`, +1,671), where a family first added less than a twentieth of what the best one did.
