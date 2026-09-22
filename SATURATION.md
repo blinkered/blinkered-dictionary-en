@@ -8,7 +8,7 @@ the curve a careful builder would get, not the order this repository happens to 
 The first two families keep nothing, which is not padding — it is the shape of a rule that needs
 three independent sources.
 
-Candidates: 174,456. Shipped: 112,115.
+Candidates: 174,456. Shipped: 112,351.
 
 Of 15 families, **14 can be checked by fetching** —
 a stable identifier or a page we fetched ourselves. The other 1 are crawls
@@ -19,18 +19,18 @@ it is their published corpus, not the web.
 | --- | --- | --- | --- | --- |
 | 1 | `wikimedia` | 0 | 0.0% | — |
 | 2 | `internetarchive` | 0 | 0.0% | — |
-| 3 | `gutenberg` | 105,164 | 60.3% | +105,164 |
-| 4 | `leipzig` | 110,316 | 63.2% | +5,152 |
-| 5 | `tatoeba` | 111,670 | 64.0% | +1,354 |
-| 6 | `lrb.co.uk` | 111,875 | 64.1% | +205 |
-| 7 | `poets.org` | 111,995 | 64.2% | +120 |
-| 8 | `theguardian.com` | 112,051 | 64.2% | +56 |
-| 9 | `irishtimes.com` | 112,073 | 64.2% | +22 |
-| 10 | `nybooks.com` | 112,086 | 64.2% | +13 |
-| 11 | `pbs.org` | 112,096 | 64.3% | +10 |
-| 12 | `publicdomainreview.org` | 112,105 | 64.3% | +9 |
-| 13 | `bbc.co.uk` | 112,112 | 64.3% | +7 |
-| 14 | `theglobeandmail.com` | 112,114 | 64.3% | +2 |
-| 15 | `ebible` | 112,115 | 64.3% | +1 |
+| 3 | `gutenberg` | 105,447 | 60.4% | +105,447 |
+| 4 | `leipzig` | 110,569 | 63.4% | +5,122 |
+| 5 | `tatoeba` | 111,910 | 64.1% | +1,341 |
+| 6 | `lrb.co.uk` | 112,113 | 64.3% | +203 |
+| 7 | `poets.org` | 112,233 | 64.3% | +120 |
+| 8 | `theguardian.com` | 112,288 | 64.4% | +55 |
+| 9 | `irishtimes.com` | 112,310 | 64.4% | +22 |
+| 10 | `nybooks.com` | 112,323 | 64.4% | +13 |
+| 11 | `pbs.org` | 112,332 | 64.4% | +9 |
+| 12 | `publicdomainreview.org` | 112,341 | 64.4% | +9 |
+| 13 | `bbc.co.uk` | 112,348 | 64.4% | +7 |
+| 14 | `theglobeandmail.com` | 112,350 | 64.4% | +2 |
+| 15 | `ebible` | 112,351 | 64.4% | +1 |
 
-**Diminishing returns from family 4** (`leipzig`, +5,152), where a family first added less than a twentieth of what the best one did.
+**Diminishing returns from family 4** (`leipzig`, +5,122), where a family first added less than a twentieth of what the best one did.

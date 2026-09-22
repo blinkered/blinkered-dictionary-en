@@ -15,7 +15,7 @@ collection rather than reuse its record only has to put the file back where the 
 | `wiki:en` | 3,726,958,725 |  | — |
 | `gut` | 483,861,006 |  | — |
 | `wikisource:en` | 282,896,928 |  | — |
-| `ia` | 236,765,745 | Internet Archive english books — literature, and the register a newspaper never reaches | [archive-en](https://archive.org/search?query=collection%3Aamericana+AND+language%3A%22eng%22) |
+| `ia` | 251,353,699 | Internet Archive english books — literature, and the register a newspaper never reaches | [archive-en](https://archive.org/search?query=collection%3Aamericana+AND+language%3A%22eng%22) |
 | `tat` | 12,347,174 |  | — |
 | `lz:eng_news_2023_1M` | 10,573,955 |  | — |
 | `lz:eng_news_2024_1M` | 10,348,509 |  | — |
