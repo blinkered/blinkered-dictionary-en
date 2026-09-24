@@ -1,4 +1,4 @@
-#blinkered/attestations/2 language=en words=67758 sources=12 built=2026-09-22 digest=0314d97d189e396e
+#blinkered/attestations/2 language=en words=67758 sources=12 built=2026-09-24 digest=0314d97d189e396e
 #tokens ebible:engwebp=606279 gut=483861006 ia=251353699 lz:eng_news_2023_1M=10573955 lz:eng_news_2024_1M=10348509 tat=12347174 web:bbc.co.uk=142456 web:irishtimes.com=389294 web:lrb.co.uk=465516 web:nybooks.com=113446 web:pbs.org=375406 web:poets.org=570147 web:publicdomainreview.org=47399 web:theglobeandmail.com=17321 web:theguardian.com=255131 wiki:en=3726958725 wikisource:en=282896928
 BLEMISHING	gut,ia,wiki:en,wikisource:en	15,1,24,5	gut:248 gut:3176 ia:rhymerslexiconco00lath/rhymerslexiconco00lath_djvu.txt wiki:en:47928 wiki:en:815511 wikisource:en:38886 wikisource:en:155846
 EXTOLLER	gut,ia,wiki:en,wikisource:en	6,9,1,3	gut:1200 gut:1322 ia:armorialfamilies01foxd/armorialfamilies01foxd_djvu.txt ia:burtspolishengli00kierrich/burtspolishengli00kierrich_djvu.txt wiki:en:34286161 wikisource:en:63421 wikisource:en:79417
